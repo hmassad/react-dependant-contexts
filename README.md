@@ -1,6 +1,7 @@
 # React Dependent Contexts
 
-Project aimed to demonstrate the usage of a Context from within another Context
+Project aimed to demonstrate the usage of a React Context from within another Context.
+
 The represented use case is a service (SomeService) that consumes user
 infromation (UserContext) displayed by UserDetailsViewer and loaded by
 UserDetailsEditor, outside of SomeService context.
